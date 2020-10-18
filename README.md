@@ -1,2 +1,2 @@
-# C_plus_plus_algorithm
+# C++ Algorithms
 The algorithm references for C++
